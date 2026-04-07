@@ -162,6 +162,7 @@ section {
 .contact-info a {
     color: var(--secondary-color);
 }
+
 /* Projects */
 .Projects {
     background-color: var(--primary-color);
